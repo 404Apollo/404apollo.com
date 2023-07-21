@@ -1,0 +1,1 @@
+chrome-extension://ecnphlgnajanjnkcmbpancdjoidceilk/notable/integrations/schoology/content.js

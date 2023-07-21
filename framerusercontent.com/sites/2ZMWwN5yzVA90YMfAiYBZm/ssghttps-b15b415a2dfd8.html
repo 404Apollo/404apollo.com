@@ -1,0 +1,3 @@
+import { jsx as _jsx } from "react/jsx-runtime"; import styled from "styled-components"; // Learn more: https://www.framer.com/docs/guides/overrides/ export function hideScrollbar(Component) { const ScrollableComponent = styled(Component)` /* Hide the
+scrollbar */ &::-webkit-scrollbar { display: none; /* Chrome */ } -ms-overflow-style: none; /* IE and Edge */ scrollbar-width: none; /* Firefox */ `; return props => /*#__PURE__*/_jsx(ScrollableComponent, { ...props }); } export const __FramerMetadata__
+= { "exports": { "hideScrollbar": { "type": "reactHoc", "name": "hideScrollbar", "annotations": { "framerContractVersion": "1" } }, "__FramerMetadata__": { "type": "variable" } } }; //# sourceMappingURL=./Hide_scroll.map

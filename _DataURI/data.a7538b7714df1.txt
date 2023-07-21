@@ -1,0 +1,1 @@
+chrome-extension://kiniklbpicchjlhhagjhchoabjffogni/js/chunk-vendors.js
